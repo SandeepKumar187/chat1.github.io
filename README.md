@@ -1,2 +1,2 @@
-# chat1.github.io
-just a chat bot
+# CHAT_GPT
+All project developed using chat GPT and Open AI API
